@@ -15,3 +15,11 @@ HS3 (TCP-only, Hidden Service, v3), operated by [cathugger](http://cathug2kyi4il
 HS3 (TCP-only, Hidden Service, v3), operated by [Mikaela](https://mikaela.info/)
 
 `"socks://127.0.0.1:9050/xvkw4rj7wzy7t75kkanr54zftudlbtpjbavxcsri5irkavclynaw3xqd.onion:1234"`
+
+Tor Hidden services [kaos](https://cryptoanarchy.org)
+
+v2:
+`"socks://127.0.0.1:9050/h4je64xe35mvbj3x.onion:1478"`
+
+v3:
+`"socks://127.0.0.1:9050/b4phzuxbgpcr34nvhlz5hsenoppszlwvskbdkru2a3o6e5dnkaezyiid.onion:1478"`
